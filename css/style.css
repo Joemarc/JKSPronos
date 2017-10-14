@@ -166,3 +166,8 @@ footer.page-footer {
   color: white;
   margin-right: 35px;
 }
+
+.border-line{
+  border: 2px solid #0853AE;
+  text-align: center;
+}
